@@ -1,0 +1,8 @@
+{
+  "name": "Papshop",
+  "app_id": "843a24de",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
